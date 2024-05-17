@@ -1,0 +1,785 @@
+{
+    "0": {
+      "identifier": "0",
+      "name": "pink primrose",
+      "scientific_name": "Oenothera speciosa",
+      "location": "North America",
+      "blooming_season": "Spring to early summer",
+      "uses": "Ornamental"
+    },
+    "1": {
+      "identifier": "1",
+      "name": "hard-leaved pocket orchid",
+      "scientific_name": "Bulbophyllum ambrosia",
+      "location": "Tropical regions",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental"
+    },
+    "2": {
+      "identifier": "2",
+      "name": "canterbury bells",
+      "scientific_name": "Campanula medium",
+      "location": "Europe",
+      "blooming_season": "Late spring to early summer",
+      "uses": "Ornamental"
+    },
+    "3": {
+      "identifier": "3",
+      "name": "sweet pea",
+      "scientific_name": "Lathyrus odoratus",
+      "location": "Mediterranean region",
+      "blooming_season": "Spring to early summer",
+      "uses": "Ornamental, fragrant flowers"
+    },
+    "4": {
+      "identifier": "4",
+      "name": "english marigold",
+      "scientific_name": "Calendula officinalis",
+      "location": "Europe",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental, medicinal"
+    },
+    "5": {
+      "identifier": "5",
+      "name": "tiger lily",
+      "scientific_name": "Lilium lancifolium",
+      "location": "Asia",
+      "blooming_season": "Summer",
+      "uses": "Ornamental"
+    },
+    "6": {
+      "identifier": "6",
+      "name": "moon orchid",
+      "scientific_name": "Phalaenopsis amabilis",
+      "location": "Southeast Asia",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental"
+    },
+    "7": {
+      "identifier": "7",
+      "name": "bird of paradise",
+      "scientific_name": "Strelitzia reginae",
+      "location": "South Africa",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental"
+    },
+    "8": {
+      "identifier": "8",
+      "name": "monkshood",
+      "scientific_name": "Aconitum napellus",
+      "location": "Northern Hemisphere",
+      "blooming_season": "Summer to early autumn",
+      "uses": "Ornamental, toxic"
+    },
+    "9": {
+      "identifier": "9",
+      "name": "globe thistle",
+      "scientific_name": "Echinops bannaticus",
+      "location": "Europe and Asia",
+      "blooming_season": "Summer",
+      "uses": "Ornamental, attracts bees"
+    },
+    "10": {
+      "identifier": "10",
+      "name": "snapdragon",
+      "scientific_name": "Antirrhinum majus",
+      "location": "Mediterranean region",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental"
+    },
+    "11": {
+      "identifier": "11",
+      "name": "colt's foot",
+      "scientific_name": "Tussilago farfara",
+      "location": "Eurasia",
+      "blooming_season": "Late winter to early spring",
+      "uses": "Medicinal"
+    },
+    "12": {
+      "identifier": "12",
+      "name": "king protea",
+      "scientific_name": "Protea cynaroides",
+      "location": "South Africa",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental, national flower of South Africa"
+    },
+    "13": {
+      "identifier": "13",
+      "name": "spear thistle",
+      "scientific_name": "Cirsium vulgare",
+      "location": "Europe and Asia",
+      "blooming_season": "Summer",
+      "uses": "Ornamental, attracts pollinators"
+    },
+    "14": {
+      "identifier": "14",
+      "name": "yellow iris",
+      "scientific_name": "Iris pseudacorus",
+      "location": "Europe, Asia, and Africa",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental, water purification"
+    },
+    "15": {
+      "identifier": "15",
+      "name": "globe-flower",
+      "scientific_name": "Trollius europaeus",
+      "location": "Northern Hemisphere",
+      "blooming_season": "Spring to early summer",
+      "uses": "Ornamental"
+    },
+    "16": {
+      "identifier": "16",
+      "name": "purple coneflower",
+      "scientific_name": "Echinacea purpurea",
+      "location": "North America",
+      "blooming_season": "Summer",
+      "uses": "Ornamental, medicinal"
+    },
+    "17": {
+      "identifier": "17",
+      "name": "peruvian lily",
+      "scientific_name": "Alstroemeria aurea",
+      "location": "South America",
+      "blooming_season": "Summer",
+      "uses": "Ornamental, cut flower"
+    },
+    "18": {
+      "identifier": "18",
+      "name": "balloon flower",
+      "scientific_name": "Platycodon grandiflorus",
+      "location": "East Asia",
+      "blooming_season": "Summer",
+      "uses": "Ornamental"
+    },
+    "19": {
+      "identifier": "19",
+      "name": "giant white arum lily",
+      "scientific_name": "Zantedeschia aethiopica",
+      "location": "Southern Africa",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental"
+    },
+    "20": {
+      "identifier": "20",
+      "name": "fire lily",
+      "scientific_name": "Lilium bulbiferum",
+      "location": "Europe and Asia",
+      "blooming_season": "Summer",
+      "uses": "Ornamental"
+    },
+    "21": {
+      "identifier": "21",
+      "name": "pincushion flower",
+      "scientific_name": "Scabiosa atropurpurea",
+      "location": "Europe",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental, attracts butterflies"
+    },
+    "22": {
+      "identifier": "22",
+      "name": "fritillary",
+      "scientific_name": "Fritillaria",
+      "location": "Eurasia",
+      "blooming_season": "Spring",
+      "uses": "Ornamental"
+    },
+    "23": {
+      "identifier": "23",
+      "name": "red ginger",
+      "scientific_name": "Alpinia purpurata",
+      "location": "Tropical regions",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental, medicinal"
+    },
+    "24": {
+      "identifier": "24",
+      "name": "grape hyacinth",
+      "scientific_name": "Muscari",
+      "location": "Europe and Asia",
+      "blooming_season": "Spring",
+      "uses": "Ornamental"
+    },
+    "25": {
+      "identifier": "25",
+      "name": "corn poppy",
+      "scientific_name": "Papaver rhoeas",
+      "location": "Europe",
+      "blooming_season": "Late spring to early summer",
+      "uses": "Ornamental, symbol of remembrance"
+    },
+    "26": {
+      "identifier": "26",
+      "name": "prince of wales feathers",
+      "scientific_name": "Amaranthus hypochondriacus",
+      "location": "Americas",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental, edible leaves"
+    },
+    "27": {
+      "identifier": "27",
+      "name": "stemless gentian",
+      "scientific_name": "Gentiana acaulis",
+      "location": "Europe",
+      "blooming_season": "Late spring to early summer",
+      "uses": "Ornamental"
+    },
+    "28": {
+      "identifier": "28",
+      "name": "artichoke",
+      "scientific_name": "Cynara cardunculus",
+      "location": "Mediterranean region",
+      "blooming_season": "Summer",
+      "uses": "Edible, ornamental"
+    },
+    "29": {
+      "identifier": "29",
+      "name": "sweet william",
+      "scientific_name": "Dianthus barbatus",
+      "location": "Europe and Asia",
+      "blooming_season": "Late spring to summer",
+      "uses": "Ornamental, cut flower"
+    },
+    "30": {
+      "identifier": "30",
+      "name": "carnation",
+      "scientific_name": "Dianthus caryophyllus",
+      "location": "Mediterranean region",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental, cut flower"
+    },
+    "31": {
+      "identifier": "31",
+      "name": "garden phlox",
+      "scientific_name": "Phlox paniculata",
+      "location": "North America",
+      "blooming_season": "Summer",
+      "uses": "Ornamental"
+    },
+    "32": {
+      "identifier": "32",
+      "name": "love in the mist",
+      "scientific_name": "Nigella damascena",
+      "location": "Southern Europe",
+      "blooming_season": "Late spring to early summer",
+      "uses": "Ornamental, culinary"
+    },
+    "33": {
+      "identifier": "33",
+      "name": "mexican aster",
+      "scientific_name": "Cosmos bipinnatus",
+      "location": "Mexico",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental"
+    },
+    "34": {
+      "identifier": "34",
+      "name": "alpine sea holly",
+      "scientific_name": "Eryngium alpinum",
+      "location": "Europe",
+      "blooming_season": "Summer",
+      "uses": "Ornamental"
+    },
+    "35": {
+      "identifier": "35",
+      "name": "ruby-lipped cattleya",
+      "scientific_name": "Cattleya labiata",
+      "location": "South America",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental, cut flower"
+    },
+    "36": {
+      "identifier": "36",
+      "name": "cape flower",
+      "scientific_name": "Mesembryanthemum crystallinum",
+      "location": "South Africa",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental, edible"
+    },
+    "37": {
+      "identifier": "37",
+      "name": "great masterwort",
+      "scientific_name": "Astrantia major",
+      "location": "Europe and Asia",
+      "blooming_season": "Summer",
+      "uses": "Ornamental, medicinal"
+    },
+    "38": {
+      "identifier": "38",
+      "name": "siam tulip",
+      "scientific_name": "Curcuma alismatifolia",
+      "location": "Southeast Asia",
+      "blooming_season": "Summer",
+      "uses": "Ornamental"
+    },
+    "39": {
+      "identifier": "39",
+      "name": "lenten rose",
+      "scientific_name": "Helleborus orientalis",
+      "location": "Europe and Asia",
+      "blooming_season": "Late winter to early spring",
+      "uses": "Ornamental"
+    },
+    "40": {
+      "identifier": "40",
+      "name": "barbeton daisy",
+      "scientific_name": "Gerbera jamesonii",
+      "location": "South Africa",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental, cut flower"
+    },
+    "41": {
+      "identifier": "41",
+      "name": "daffodil",
+      "scientific_name": "Narcissus",
+      "location": "Europe and North Africa",
+      "blooming_season": "Spring",
+      "uses": "Ornamental, symbolic"
+    },
+    "42": {
+      "identifier": "42",
+      "name": "sword lily",
+      "scientific_name": "Gladiolus",
+      "location": "South Africa",
+      "blooming_season": "Summer",
+      "uses": "Ornamental, cut flower"
+    },
+    "43": {
+      "identifier": "43",
+      "name": "poinsettia",
+      "scientific_name": "Euphorbia pulcherrima",
+      "location": "Mexico",
+      "blooming_season": "Winter",
+      "uses": "Ornamental, seasonal decoration"
+    },
+    "44": {
+      "identifier": "44",
+      "name": "bolero deep blue",
+      "scientific_name": "Ageratum houstonianum",
+      "location": "Central America",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental"
+    },
+    "45": {
+      "identifier": "45",
+      "name": "wallflower",
+      "scientific_name": "Erysimum",
+      "location": "Europe and Asia",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental, attracts butterflies"
+    },
+    "46": {
+      "identifier": "46",
+      "name": "marigold",
+      "scientific_name": "Tagetes",
+      "location": "Americas",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental, medicinal, culinary"
+    },
+    "47": {
+      "identifier": "47",
+      "name": "buttercup",
+      "scientific_name": "Ranunculus",
+      "location": "Worldwide",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental"
+    },
+    "48": {
+      "identifier": "48",
+      "name": "oxeye daisy",
+      "scientific_name": "Leucanthemum vulgare",
+      "location": "Europe and Asia",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental, attracts pollinators"
+    },
+    "49": {
+      "identifier": "49",
+      "name": "common dandelion",
+      "scientific_name": "Taraxacum officinale",
+      "location": "Worldwide",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental, medicinal, culinary"
+    },
+    "50": {
+      "identifier": "50",
+      "name": "petunia",
+      "scientific_name": "Petunia",
+      "location": "South America",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental"
+    },
+    "51": {
+      "identifier": "51",
+      "name": "wild pansy",
+      "scientific_name": "Viola tricolor",
+      "location": "Europe and Asia",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental, edible"
+    },
+    "52": {
+      "identifier": "52",
+      "name": "primula",
+      "scientific_name": "Primula",
+      "location": "Northern Hemisphere",
+      "blooming_season": "Spring",
+      "uses": "Ornamental, medicinal"
+    },
+    "53": {
+      "identifier": "53",
+      "name": "sunflower",
+      "scientific_name": "Helianthus annuus",
+      "location": "North America",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental, edible seeds"
+    },
+    "54": {
+      "identifier": "54",
+      "name": "pelargonium",
+      "scientific_name": "Pelargonium",
+      "location": "South Africa",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental"
+    },
+    "55": {
+      "identifier": "55",
+      "name": "bishop of llandaff",
+      "scientific_name": "Dahlia",
+      "location": "Mexico",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental"
+    },
+    "56": {
+      "identifier": "56",
+      "name": "gaura",
+      "scientific_name": "Gaura lindheimeri",
+      "location": "North America",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental"
+    },
+    "57": {
+      "identifier": "57",
+      "name": "geranium",
+      "scientific_name": "Pelargonium",
+      "location": "South Africa",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental"
+    },
+    "58": {
+      "identifier": "58",
+      "name": "orange dahlia",
+      "scientific_name": "Dahlia",
+      "location": "Mexico",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental"
+    },
+    "59": {
+      "identifier": "59",
+      "name": "pink-yellow dahlia",
+      "scientific_name": "Dahlia",
+      "location": "Mexico",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental"
+    },
+    "60": {
+      "identifier": "60",
+      "name": "cautleya spicata",
+      "scientific_name": "Cautleya spicata",
+      "location": "Himalayas",
+      "blooming_season": "Summer",
+      "uses": "Ornamental"
+    },
+    "61": {
+      "identifier": "61",
+      "name": "japanese anemone",
+      "scientific_name": "Anemone hupehensis",
+      "location": "China",
+      "blooming_season": "Late summer to autumn",
+      "uses": "Ornamental"
+    },
+    "62": {
+      "identifier": "62",
+      "name": "black-eyed susan",
+      "scientific_name": "Rudbeckia hirta",
+      "location": "North America",
+      "blooming_season": "Summer to autumn",
+      "uses": "Ornamental, attracts pollinators"
+    },
+    "63": {
+      "identifier": "63",
+      "name": "silverbush",
+      "scientific_name": "Convolvulus cneorum",
+      "location": "Mediterranean region",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental"
+    },
+    "64": {
+      "identifier": "64",
+      "name": "californian poppy",
+      "scientific_name": "Eschscholzia californica",
+      "location": "California",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental, medicinal"
+    },
+    "65": {
+      "identifier": "65",
+      "name": "osteospermum",
+      "scientific_name": "Osteospermum",
+      "location": "Africa",
+      "blooming_season": "Year-round",
+      "uses": "Ornamental"
+    },
+    "66": {
+      "identifier": "66",
+      "name": "spring crocus",
+      "scientific_name": "Crocus vernus",
+      "location": "Europe",
+      "blooming_season": "Spring",
+      "uses": "Ornamental"
+    },
+    "67": {
+      "identifier": "67",
+      "name": "bearded iris",
+      "scientific_name": "Iris germanica",
+      "location": "Europe and Asia",
+      "blooming_season": "Spring to summer",
+      "uses": "Ornamental"
+    },
+    "68": {
+      "identifier": "68",
+      "name": "windflower",
+      "scientific_name": "Anemone",
+      "location": "Northern Hemisphere",
+      "blooming_season": "Spring to autumn",
+      "uses": "Ornamental"
+    },
+    "69": {
+        "name": "tree poppy",
+        "scientific_name": "Dendromecon rigida",
+        "location": "California, United States",
+        "blooming_season": "Spring to early summer",
+        "uses": "Ornamental plant, erosion control"
+    },
+    "70": {
+        "name": "gazania",
+        "scientific_name": "Gazania rigens",
+        "location": "South Africa",
+        "blooming_season": "Spring to summer",
+        "uses": "Ground cover, ornamental plant"
+    },
+    "71": {
+        "name": "azalea",
+        "scientific_name": "Rhododendron",
+        "location": "Various regions",
+        "blooming_season": "Spring",
+        "uses": "Ornamental plant, landscaping"
+    },
+    "72": {
+        "name": "water lily",
+        "scientific_name": "Nymphaea",
+        "location": "Various regions",
+        "blooming_season": "Spring to autumn",
+        "uses": "Ornamental plant, water filtration"
+    },
+    "73": {
+        "name": "rose",
+        "scientific_name": "Rosa",
+        "location": "Various regions",
+        "blooming_season": "Spring to autumn",
+        "uses": "Ornamental plant, fragrance, medicinal uses"
+    },
+    "74": {
+        "name": "thorn apple",
+        "scientific_name": "Datura stramonium",
+        "location": "Native to Americas, now widespread",
+        "blooming_season": "Summer to autumn",
+        "uses": "Medicinal, hallucinogenic"
+    },
+    "75": {
+        "name": "morning glory",
+        "scientific_name": "Ipomoea",
+        "location": "Various regions",
+        "blooming_season": "Summer to autumn",
+        "uses": "Ornamental plant, medicinal"
+    },
+    "76": {
+        "name": "passion flower",
+        "scientific_name": "Passiflora",
+        "location": "Various regions",
+        "blooming_season": "Spring to summer",
+        "uses": "Ornamental plant, fruit production"
+    },
+    "77": {
+        "name": "lotus",
+        "scientific_name": "Nelumbo nucifera",
+        "location": "Asia, Australia",
+        "blooming_season": "Summer to autumn",
+        "uses": "Sacred plant, ornamental, culinary"
+    },
+    "78": {
+        "name": "toad lily",
+        "scientific_name": "Tricyrtis",
+        "location": "East Asia",
+        "blooming_season": "Late summer to autumn",
+        "uses": "Ornamental plant"
+    },
+    "79": {
+        "name": "anthurium",
+        "scientific_name": "Anthurium",
+        "location": "Tropical Americas",
+        "blooming_season": "Year-round",
+        "uses": "Ornamental plant"
+    },
+    "80": {
+        "name": "frangipani",
+        "scientific_name": "Plumeria",
+        "location": "Tropical regions",
+        "blooming_season": "Spring to autumn",
+        "uses": "Ornamental plant, perfume"
+    },
+    "81": {
+        "name": "clematis",
+        "scientific_name": "Clematis",
+        "location": "Various regions",
+        "blooming_season": "Spring to autumn",
+        "uses": "Ornamental plant, medicinal"
+    },
+    "82": {
+        "name": "hibiscus",
+        "scientific_name": "Hibiscus",
+        "location": "Tropical and subtropical regions",
+        "blooming_season": "Year-round",
+        "uses": "Ornamental plant, culinary, medicinal"
+    },
+    "83": {
+        "name": "columbine",
+        "scientific_name": "Aquilegia",
+        "location": "Northern Hemisphere",
+        "blooming_season": "Spring to early summer",
+        "uses": "Ornamental plant"
+    },
+    "84": {
+        "name": "desert-rose",
+        "scientific_name": "Adenium obesum",
+        "location": "Sub-Saharan Africa, Arabian Peninsula",
+        "blooming_season": "Spring to autumn",
+        "uses": "Ornamental plant"
+    },
+    "85": {
+        "name": "tree mallow",
+        "scientific_name": "Lavatera arborea",
+        "location": "Europe, North Africa",
+        "blooming_season": "Summer to autumn",
+        "uses": "Ornamental plant, medicinal"
+    },
+    "86": {
+        "name": "magnolia",
+        "scientific_name": "Magnolia",
+        "location": "Various regions",
+        "blooming_season": "Spring to early summer",
+        "uses": "Ornamental plant, traditional medicine"
+    },
+    "87": {
+        "name": "cyclamen",
+        "scientific_name": "Cyclamen",
+        "location": "Mediterranean region",
+        "blooming_season": "Autumn to spring",
+        "uses": "Ornamental plant"
+    },
+    "88": {
+        "name": "watercress",
+        "scientific_name": "Nasturtium officinale",
+        "location": "Worldwide",
+        "blooming_season": "Spring to summer",
+        "uses": "Culinary, medicinal"
+    },
+    "89": {
+        "name": "canna lily",
+        "scientific_name": "Canna",
+        "location": "Tropical and subtropical regions",
+        "blooming_season": "Summer to autumn",
+        "uses": "Ornamental plant, edible roots"
+    },
+    "90": {
+        "name": "hippeastrum",
+        "scientific_name": "Hippeastrum",
+        "location": "Native to tropical and subtropical regions of the Americas",
+        "blooming_season": "Spring to summer",
+        "uses": "Ornamental plant"
+    },
+    "91": {
+        "name": "bee balm",
+        "scientific_name": "Monarda",
+        "location": "North America",
+        "blooming_season": "Summer to autumn",
+        "uses": "Ornamental plant, culinary, medicinal"
+    },
+    "92": {
+        "name": "ball moss",
+        "scientific_name": "Tillandsia recurvata",
+        "location": "Americas",
+        "blooming_season": "Year-round",
+        "uses": "Epiphytic plant, air purifier"
+    },
+    "93": {
+        "name": "foxglove",
+        "scientific_name": "Digitalis purpurea",
+        "location": "Europe, North Africa",
+        "blooming_season": "Summer",
+        "uses": "Ornamental plant, source of heart medicine"
+    },
+    "94": {
+        "name": "bougainvillea",
+        "scientific_name": "Bougainvillea",
+        "location": "South America",
+        "blooming_season": "Spring to autumn",
+        "uses": "Ornamental plant"
+    },
+    "95": {
+        "name": "camellia",
+        "scientific_name": "Camellia",
+        "location": "East Asia, Southeast Asia",
+        "blooming_season": "Winter to early spring",
+        "uses": "Ornamental plant, tea production"
+    },
+    "96": {
+        "name": "mallow",
+        "scientific_name": "Malva",
+        "location": "Europe, Asia, North Africa",
+        "blooming_season": "Summer to autumn",
+        "uses": "Ornamental plant, culinary, medicinal"
+    },
+    "97": {
+        "name": "mexican petunia",
+        "scientific_name": "Ruellia simplex",
+        "location": "Mexico, Central America",
+        "blooming_season": "Summer to autumn",
+        "uses": "Ornamental plant"
+    },
+    "98": {
+        "name": "bromelia",
+        "scientific_name": "Bromeliaceae",
+        "location": "Tropical Americas",
+        "blooming_season": "Varies",
+        "uses": "Ornamental plant, habitat for animals"
+    },
+    "99": {
+        "name": "blanket flower",
+        "scientific_name": "Gaillardia",
+        "location": "Americas",
+        "blooming_season": "Spring to autumn",
+        "uses": "Ornamental plant, medicinal"
+    },
+    "100": {
+        "name": "trumpet creeper",
+        "scientific_name": "Campsis radicans",
+        "location": "Eastern United States",
+        "blooming_season": "Summer to autumn",
+        "uses": "Ornamental plant, attracts hummingbirds"
+    },
+    "101": {
+        "name": "blackberry lily",
+        "scientific_name": "Belamcanda chinensis",
+        "location": "China, Japan",
+        "blooming_season": "Summer",
+        "uses": "Ornamental plant, traditional medicine"
+    }
+}
